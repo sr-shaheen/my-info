@@ -322,7 +322,7 @@ p {
 }
 #skills .service-item h3 {
   font-size: 1.3rem;
-  color: yellow;
+  color:  rgb(214, 214, 32);
   margin-bottom: 10px;
 }
 #skills .service-item p {
@@ -372,6 +372,12 @@ p {
   font-size: 4rem;
   font-weight: 500;
 }
+#projects .project-info h3 {
+  font-size: 1.5rem;
+  color: rgb(214, 214, 32);
+  margin-bottom: 10px;
+}
+
 #projects .project-info h2 {
   font-size: 1.8rem;
   font-weight: 500;
