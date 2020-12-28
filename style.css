@@ -322,7 +322,7 @@ p {
 }
 #skills .service-item h3 {
   font-size: 1.3rem;
-  color:  rgb(214, 214, 32);
+  color: rgb(214, 214, 32);
   margin-bottom: 10px;
 }
 #skills .service-item p {
@@ -709,5 +709,8 @@ p {
     flex-basis: 22%;
     margin: 1.5%;
   }
+}
+.paragraph {
+  text-align: justify !important;
 }
 /* End  Media Query For Desktop */
